@@ -22,3 +22,4 @@ This workshop introduces participants to Ocean Networks Canada’s Oceans 3.0 da
 6. Demo: ?what? (Who?)
 7. Demo: ?what? (Who?)
 8. Demo: Working with Coastal Radar (CODAR) data (Manman?)
+9. Q&A
